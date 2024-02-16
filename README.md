@@ -4,12 +4,12 @@
 
 ## Table of contents
 
-- [PROJECT TITLE](#Project-Title)
-- [DESCRIPTION](#Description)
-- [HOW TO RUN PROGRAM](#How-to-run-program)
-- [FILES USED](#files-used)
-- [ADDITIONAL DOCUMENTATION](#additional-documentation)
-- [VERSIONING](#versioning)
+- [TITLE OF PROJECT](###Project-Title)
+- [BACKGROUNF INFO](###Description)
+- [HOW TO RUN PROGRAM](###How-to-run-program)
+- [FILES USED](###files-used)
+- [ADDITIONAL INFORMATION](###additional-documentation)
+- [VERSIONING](###versioning)
 
 - ## Project Title
 
