@@ -17,11 +17,9 @@
 
 ## Description
 
-Practice using GitHub by creating a sample repository. Make sure you add a description to help others understand your project.
-
+This is where the background information regarding the repository goes. This is done to help others undersand your work better.
 ## How to Run Program 
 
-Explain here how you would run the program and what files need to be available. 
 ```text
 Hello_World/
 └── 
@@ -34,18 +32,17 @@ Hello_World/
 
 ## Files Used 
 
-- Did you use any datafiles?  
-- List filenames
-- Where you got them 
-- What is contained within the data files?
-- Datafile considerations 
-- URL links to files - example here:
-[Baby names from 1880 to present](https://catalog.data.gov/dataset/baby-names-from-social-security-card-applications-national-level-data)
-
+1. Did you use any datafiles?  
+2. List filenames
+3. Where you got them 
+4. What is contained within the data files?
+5. Datafile considerations
+6. URL links to files - example here:
+Crime rates from 2020 to present](https://catalog.data.gov/dataset/crime-data-from-2020-to-present)
   
 ## Additional Documentation
 
-No additional documentation at this time.  Here is some **BOLD** text 
+**No additional documentation at this time
 
 
 ## Versioning
