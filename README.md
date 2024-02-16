@@ -5,10 +5,10 @@
 ## Table of contents
 
 - [TITLE OF PROJECT](###Project-Title)
-- [BACKGROUND INFO](###Description)
-- [HOW TO RUN PROGRAM](###How-to-run-program)
+- [BACKGROUND INFO](###Background_Info)
+- [RUNNING PROGRAM EXAMPLE](###Runnning-Program-Example)
 - [FILES USED](###files-used)
-- [ADDITIONAL INFORMATION](###additional-documentation)
+- [ADDITIONAL INFORMATION](###additional-information)
 - [VERSIONING](###versioning)
 
 - ## Project Title
@@ -32,7 +32,7 @@ Hello_World/
 
 ## Files Used 
 
-1. Did you use any datafiles?  
+1. Did you use any datafiles?
 2. List filenames
 3. Where you got them 
 4. What is contained within the data files?
@@ -47,4 +47,4 @@ Crime rates from 2020 to present](https://catalog.data.gov/dataset/crime-data-fr
 
 ## Versioning
 
-Discuss any versioning used especially if you are making major changes throughout the process of your code.
+The different versions as code was being written. I believe this is still version 1.
