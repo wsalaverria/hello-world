@@ -18,7 +18,7 @@
 ## Description
 
 This is where the background information regarding the repository goes. This is done to help others undersand your work better.
-## How to Run Program 
+## Running Program Example
 
 ```text
 Hello_World/
@@ -40,9 +40,9 @@ Hello_World/
 6. URL links to files - example here:
 Crime rates from 2020 to present](https://catalog.data.gov/dataset/crime-data-from-2020-to-present)
   
-## Additional Documentation
+## Additional Information
 
-**No additional documentation at this time**
+**No additional information at this time**
 
 
 ## Versioning
