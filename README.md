@@ -1,6 +1,6 @@
 # hello-world
-This repository is for BAIS Professional class
-This is the readme.md file I didn't really understand how to do this part. But I hope this works.
+*This repository is for BAIS Professional class*
+*This is the readme.md file I didn't really understand how to do this part. But I hope this works.*
 
 ## Table of contents
 
