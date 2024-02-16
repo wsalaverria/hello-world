@@ -5,7 +5,7 @@
 ## Table of contents
 
 - [TITLE OF PROJECT](###Project-Title)
-- [BACKGROUNF INFO](###Description)
+- [BACKGROUND INFO](###Description)
 - [HOW TO RUN PROGRAM](###How-to-run-program)
 - [FILES USED](###files-used)
 - [ADDITIONAL INFORMATION](###additional-documentation)
